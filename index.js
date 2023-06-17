@@ -1,16 +1,18 @@
-const expres = require('express')
-
-
+const expres = require('express');
 const app = expres();
+const port = process.env.PORT || 21100; 
 
-app.get("/",(req,res)=>{
-    res.json({message:"Hello server running"})
-})
 
-app.get("/allData",(req,res)=>{
-    res.send({result:"okkk"})
-})
+const chefs = require('./Data/recipes.json');
 
-app.listen(5000,()=>{
-    console.log("Server is running on port 5000")
-})
+app.get('/',(req,res)=>{
+    res.send('Baratie Server is running')
+});
+
+app.get('/chefs',(req,res)=>{
+    res.send(chefs)
+});
+
+app.listen(port,() =>{
+    console.log(`Baratie server is running : ${port}`)
+});
