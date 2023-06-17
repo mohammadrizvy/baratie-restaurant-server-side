@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Chef Marcello Rossi",
+    "chef_photo": "",
+    "experience": "Over 20 years of culinary experience, specializing in traditional Italian dishes.",
+    "recipe_amount": "",
+    "chef_bio": "Chef Marcello Rossi is a master of Italian cuisine, known for his expertise in crafting authentic and flavorful dishes. With over 20 years of experience, he has honed his skills in various renowned restaurants across Italy. Marcello's passion for cooking started at a young age, inspired by his grandmother's traditional recipes. Today, he continues to create culinary wonders using only the freshest ingredients and time-tested techniques. His commitment to preserving the authenticity of Italian cuisine is evident in every dish he prepares.",
+    "likes": "56k",
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "rating": 4.8,
+        "method": "1. Cook spaghetti until al dente. \n2. In a separate pan, sauté pancetta until crispy. \n3. In a bowl, whisk eggs, Parmesan cheese, and black pepper. \n4. Drain cooked pasta and add to the pancetta pan. \n5. Remove from heat, then slowly add the egg mixture, stirring constantly. \n6. Serve immediately, garnished with additional Parmesan and parsley."
+      },
+      {
+        "name": "Margherita Pizza",
+        "rating": 4.9,
+        "method": "1. Preheat oven to high heat. \n2. Stretch pizza dough and place it on a baking sheet or pizza stone. \n3. Spread tomato sauce evenly on the dough. \n4. Top with mozzarella cheese and fresh basil leaves. \n5. Drizzle olive oil over the pizza. \n6. Bake in the preheated oven until the crust is golden and the cheese is bubbly. \n7. Slice and serve hot."
+      },
+      {
+        "name": "Tiramisu",
+        "rating": 4.7,
+        "method": "1. Combine espresso and rum in a shallow dish. \n2. In a mixing bowl, beat egg yolks and sugar until creamy. \n3. Fold mascarpone cheese into the egg mixture. \n4. Dip ladyfingers into the espresso mixture and layer them in a serving dish. \n5. Spread a layer of the mascarpone mixture on top. \n6. Repeat the layers, finishing with a dusting of cocoa powder. \n7. Refrigerate for a few hours to set. \n8. Serve chilled."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_name": "Isabella Montoya",
+    "chef_photo": "",
+    "experience": "A culinary artist with a decade of experience in creating exquisite Mexican dishes.",
+    "recipe_amount": "",
+    "chef_bio": "Chef Isabella Montoya is a culinary artist renowned for her mastery of Mexican cuisine. With over a decade of experience, Isabella has delighted diners with her innovative and flavorful creations. She draws inspiration from the rich culinary traditions of Mexico, blending traditional flavors with modern techniques. Isabella's passion for showcasing the vibrant and diverse Mexican gastronomy is evident in her dishes, which often reflect a perfect balance of spices, textures, and colors. Her dedication to preserving the authenticity of Mexican flavors has earned her widespread acclaim and a dedicated following.",
+    "likes": "17k",
+    "recipes": [
+      {
+        "name": "Chicken Enchiladas",
+        "rating": 4.9,
+        "method": "1. Cook chicken breasts and shred the meat. \n2. In a skillet, heat oil and sauté onions and garlic. \n3. Add shredded chicken, chili powder, cumin, and salt. \n4. Soften corn tortillas and fill them with the chicken mixture. \n5. Roll the tortillas and place them in a baking dish. \n6. Pour enchilada sauce over the rolled tortillas. \n7. Top with shredded cheese and bake in the oven until cheese is melted and bubbly. \n8. Garnish with chopped cilantro and serve."
+      },
+      {
+        "name": "Guacamole",
+        "rating": 4.8,
+        "method": "1. Mash ripe avocados in a bowl with a fork. \n2. Add chopped onions, diced tomatoes, minced jalapeños, and minced garlic. \n3. Squeeze in fresh lime juice and season with salt. \n4. Mix all the ingredients until well combined. \n5. Optionally, add chopped cilantro for added flavor. \n6. Serve with tortilla chips or as a topping for tacos, burritos, or nachos."
+      },
+      {
+        "name": "Chiles Rellenos",
+        "rating": 4.7,
+        "method": "1. Roast and peel poblano peppers. \n2. Make a slit in each pepper and remove the seeds. \n3. Stuff the peppers with cheese or meat filling. \n4. Dip the stuffed peppers in beaten egg whites. \n5. In a skillet, heat oil and fry the peppers until golden and crispy. \n6. Drain on paper towels to remove excess oil. \n7. Serve with tomato sauce or salsa on top."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_name": "Benjamin Gallagher",
+    "chef_photo": "",
+    "experience": "A renowned pastry chef with a passion for crafting exquisite French desserts.",
+    "recipe_amount": "",
+    "chef_bio": "Chef Benjamin Gallagher is a renowned pastry chef known for his mastery of French desserts. With years of experience in renowned patisseries and Michelin-starred restaurants, Benjamin has elevated the art of pastry-making to new heights. His attention to detail, precision, and creative flair are evident in every delicate creation he presents. From decadent pastries to elegant cakes, Benjamin's desserts showcase a harmonious blend of flavors and textures that leave a lasting impression. With a passion for sharing his expertise, he also conducts workshops and classes to inspire aspiring pastry chefs around the world.",
+    "likes": "87k",
+    "recipes": [
+      {
+        "name": "Croissants",
+        "rating": 4.9,
+        "method": "1. Prepare a laminated dough by layering butter into the dough. \n2. Roll out the dough and fold it in thirds. \n3. Repeat the rolling and folding process several times. \n4. Cut the dough into triangles and roll them into croissant shapes. \n5. Proof the croissants until they double in size. \n6. Bake in a preheated oven until golden and flaky. \n7. Enjoy warm and fresh."
+      },
+      {
+        "name": "Macarons",
+        "rating": 4.8,
+        "method": "1. Sift almond flour and powdered sugar together. \n2. In a separate bowl, whisk egg whites until foamy. \n3. Gradually add granulated sugar and continue whisking until stiff peaks form. \n4. Fold the almond flour mixture into the egg whites. \n5. Pipe small rounds onto a baking sheet lined with parchment paper. \n6. Let the macarons rest until a skin forms. \n7. Bake in a low-temperature oven until set. \n8. Fill the macarons with desired filling (e.g., ganache, buttercream) and sandwich them together."
+      },
+      {
+        "name": "Crème Brûlée",
+        "rating": 4.7,
+        "method": "1. In a saucepan, heat heavy cream until hot but not boiling. \n2. In a mixing bowl, whisk together egg yolks and sugar until well combined. \n3. Slowly pour the hot cream into the egg mixture, whisking constantly. \n4. Strain the mixture and pour it into ramekins. \n5. Place the ramekins in a baking dish filled with hot water. \n6. Bake in a low-temperature oven until set but still slightly jiggly. \n7. Refrigerate the custards until chilled. \n8. Sprinkle sugar on top of each custard and caramelize using a torch or broiler. \n9. Allow the sugar to harden before serving."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_name": "Sophia Nguyen",
+    "chef_photo": "",
+    "experience": "An expert in Vietnamese cuisine, renowned for creating authentic and flavorful dishes.",
+    "recipe_amount": "",
+    "chef_bio": "Chef Sophia Nguyen is an expert in Vietnamese cuisine, celebrated for her ability to create authentic and flavorful dishes. Growing up in a family with a strong culinary heritage, Sophia developed a deep appreciation for the vibrant flavors and unique ingredients of Vietnamese cuisine. With years of experience and a creative approach to cooking, she has perfected traditional recipes while infusing her own twist. Sophia's passion for showcasing the essence of Vietnamese flavors has earned her a reputation for crafting dishes that are both visually stunning and delectable. She continues to explore new ways to introduce Vietnamese cuisine to a global audience.",
+    "likes": "11k",
+    "recipes": [
+      {
+        "name": "Pho",
+        "rating": 4.9,
+        "method": "1. Prepare a flavorful broth by simmering beef bones, spices, and aromatics for hours. \n2. Cook rice noodles according to package instructions. \n3. Thinly slice beef or other protein of choice. \n4. Place cooked noodles in a bowl and top with the sliced protein. \n5. Ladle the hot broth over the noodles and beef. \n6. Serve with fresh herbs, bean sprouts, lime wedges, and hoisin sauce on the side."
+      },
+      {
+        "name": "Banh Mi",
+        "rating": 4.8,
+        "method": "1. Slice a baguette lengthwise and lightly toast it. \n2. Spread mayonnaise on one side of the baguette. \n3. Layer sliced grilled or roasted meat, such as pork or chicken, on the other side. \n4. Top with pickled vegetables (carrots, daikon radish) and fresh cilantro leaves. \n5. Optional: Add sliced jalapeños for heat. \n6. Close the baguette and press gently. \n7. Slice into smaller portions and serve."
+      },
+      {
+        "name": "Goi Cuon (Fresh Spring Rolls)",
+        "rating": 4.7,
+        "method": "1. Dip rice paper wrappers in warm water to soften. \n2. Place a variety of fresh herbs (mint, basil), cooked shrimp, vermicelli noodles, and julienned vegetables (carrots, cucumbers) on the softened wrapper. \n3. Roll the wrapper tightly, folding the sides as you go. \n4. Serve the spring rolls with a dipping sauce made from hoisin sauce, peanut butter, and lime juice."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_name": "Alessandro Romano",
+    "chef_photo": "",
+    "experience": "A master of Mediterranean cuisine, renowned for his creative use of fresh ingredients and bold flavors.",
+    "recipe_amount": "",
+    "chef_bio": "Chef Alessandro Romano is a master of Mediterranean cuisine, known for his creative and innovative approach to cooking. With a deep understanding of the diverse flavors and ingredients found in the coastal regions, Alessandro creates dishes that capture the essence of the sun-drenched coasts. His expertise lies in harmonizing bold flavors with fresh ingredients, resulting in vibrant and tantalizing creations. Alessandro's commitment to sustainable sourcing and showcasing the beauty of Mediterranean cuisine has made him a respected figure in the culinary world.",
+    "likes": "118k",
+    "recipes": [
+      {
+        "name": "Grilled Mediterranean Sea Bass",
+        "rating": 4.9,
+        "method": "1. Preheat grill to medium-high heat. \n2. Season sea bass fillets with salt, pepper, and Mediterranean herbs. \n3. Grill the fillets, skin side down, for a few minutes until the skin is crispy. \n4. Flip the fillets and continue grilling until cooked through. \n5. Drizzle with lemon juice and extra-virgin olive oil. \n6. Serve with a side of roasted vegetables or a fresh salad."
+      },
+      {
+        "name": "Caprese Salad",
+        "rating": 4.7,
+        "method": "1. Slice ripe tomatoes and fresh mozzarella cheese. \n2. Arrange the tomato and mozzarella slices on a serving platter. \n3. Sprinkle with fresh basil leaves. \n4. Drizzle with balsamic glaze and extra-virgin olive oil. \n5. Season with salt and pepper. \n6. Serve as a refreshing appetizer or side dish."
+      },
+      {
+        "name": "Lemon Risotto",
+        "rating": 4.8,
+        "method": "1. In a saucepan, melt butter and sauté minced garlic until fragrant. \n2. Add Arborio rice and stir until coated with butter. \n3. Gradually add hot vegetable broth, stirring continuously until the rice absorbs the liquid. \n4. Continue adding broth and stirring until the rice is al dente. \n5. Stir in freshly grated lemon zest, lemon juice, and Parmesan cheese. \n6. Season with salt and pepper to taste. \n7. Serve the risotto hot, garnished with additional lemon zest and chopped parsley."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_name": "Gabrielle Martinez",
+    "chef_photo": "",
+    "experience": "An advocate of farm-to-table cuisine, known for creating dishes using locally sourced, seasonal ingredients.",
+    "recipe_amount": "",
+    "chef_bio": "Chef Gabrielle Martinez is a passionate advocate of farm-to-table cuisine, emphasizing the use of locally sourced, seasonal ingredients. With a background in sustainable agriculture and a deep respect for nature, Gabrielle has dedicated her culinary career to promoting a more conscious approach to cooking. Her menus change with the seasons, reflecting the bounty of the local farms and highlighting the flavors of each ingredient at its peak. Gabrielle's commitment to sustainability extends beyond the kitchen, as she actively supports local farmers and works towards building a more sustainable food system. Her culinary creations are a celebration of freshness, flavor, and the connection between people and the land.",
+    "likes": "54k",
+    "recipes": [
+      {
+        "name": "Roasted Vegetable Medley",
+        "rating": 4.9,
+        "method": "1. Preheat oven to a high temperature. \n2. Chop a variety of seasonal vegetables into bite-sized pieces. \n3. Toss the vegetables with olive oil, salt, and pepper. \n4. Spread the vegetables in a single layer on a baking sheet. \n5. Roast in the oven until the vegetables are tender and caramelized. \n6. Sprinkle with fresh herbs, such as thyme or rosemary, before serving."
+      },
+      {
+        "name": "Quinoa Salad",
+        "rating": 4.7,
+        "method": "1. Cook quinoa according to package instructions and let it cool. \n2. In a large bowl, combine cooked quinoa, chopped vegetables (such as cucumber, bell peppers, and cherry tomatoes), and fresh herbs (such as parsley and mint). \n3. Drizzle with a dressing made from olive oil, lemon juice, and Dijon mustard. \n4. Season with salt and pepper. \n5. Toss the salad until well combined. \n6. Serve chilled as a refreshing and nutritious salad."
+      },
+      {
+        "name": "Herb-Roasted Chicken",
+        "rating": 4.8,
+        "method": "1. Preheat oven to a moderate temperature. \n2. Rub a whole chicken with a mixture of chopped fresh herbs (such as rosemary, thyme, and sage), garlic, salt, and pepper. \n3. Place the chicken on a roasting rack and roast in the oven until the skin is golden and crispy, and the internal temperature reaches a safe level. \n4. Let the chicken rest for a few minutes before carving. \n5. Serve the herb-roasted chicken with roasted vegetables or a side salad."
+      }
+    ]
+  }
+]
