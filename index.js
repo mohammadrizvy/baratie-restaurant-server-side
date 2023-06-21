@@ -1,18 +1,18 @@
-const expres = require('express');
-const app = expres();
-const port = process.env.PORT || 21100; 
+const express = require("express");
+const cors = require("cors");
+const app = express();
+app.use(cors())
+const chef = require("./Data/recipes.json");
 
 
-const chefs = require('./Data/recipes.json');
+app.get('/',(req,res) => {
+    res.json({message: "hello the server is running "})
+})
 
-app.get('/',(req,res)=>{
-    res.send('Baratie Server is running')
+app.get("/chef",(req,res) => {
+    res.send(chef);
 });
 
-app.get('/chefs',(req,res)=>{
-    res.send(chefs)
-});
-
-app.listen(port,() =>{
-    console.log(`Baratie server is running : ${port}`)
+app.listen(600,() => {
+    console.log("server is running on port 600")
 });

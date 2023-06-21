@@ -1,8 +1,8 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "chef_name": "Chef Marcello Rossi",
-    "chef_photo": "",
+    "chef_photo": "https://i.ibb.co/3sSzm4v/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash.jpg",
     "experience": "Over 20 years of culinary experience, specializing in traditional Italian dishes.",
     "recipe_amount": "",
     "chef_bio": "Chef Marcello Rossi is a master of Italian cuisine, known for his expertise in crafting authentic and flavorful dishes. With over 20 years of experience, he has honed his skills in various renowned restaurants across Italy. Marcello's passion for cooking started at a young age, inspired by his grandmother's traditional recipes. Today, he continues to create culinary wonders using only the freshest ingredients and time-tested techniques. His commitment to preserving the authenticity of Italian cuisine is evident in every dish he prepares.",
@@ -26,9 +26,9 @@
     ]
   },
   {
-    "id": 2,
+    "id": "2",
     "chef_name": "Isabella Montoya",
-    "chef_photo": "",
+    "chef_photo": "https://i.ibb.co/5Bf93s8/jesson-mata-I2-Erl2c-U-A4-unsplash.jpg",
     "experience": "A culinary artist with a decade of experience in creating exquisite Mexican dishes.",
     "recipe_amount": "",
     "chef_bio": "Chef Isabella Montoya is a culinary artist renowned for her mastery of Mexican cuisine. With over a decade of experience, Isabella has delighted diners with her innovative and flavorful creations. She draws inspiration from the rich culinary traditions of Mexico, blending traditional flavors with modern techniques. Isabella's passion for showcasing the vibrant and diverse Mexican gastronomy is evident in her dishes, which often reflect a perfect balance of spices, textures, and colors. Her dedication to preserving the authenticity of Mexican flavors has earned her widespread acclaim and a dedicated following.",
@@ -52,9 +52,9 @@
     ]
   },
   {
-    "id": 3,
+    "id": "3",
     "chef_name": "Benjamin Gallagher",
-    "chef_photo": "",
+    "chef_photo": "https://i.ibb.co/f8WTbrW/hemant-latawa-RKdk-ETvc-Yn4-unsplash.jpg",
     "experience": "A renowned pastry chef with a passion for crafting exquisite French desserts.",
     "recipe_amount": "",
     "chef_bio": "Chef Benjamin Gallagher is a renowned pastry chef known for his mastery of French desserts. With years of experience in renowned patisseries and Michelin-starred restaurants, Benjamin has elevated the art of pastry-making to new heights. His attention to detail, precision, and creative flair are evident in every delicate creation he presents. From decadent pastries to elegant cakes, Benjamin's desserts showcase a harmonious blend of flavors and textures that leave a lasting impression. With a passion for sharing his expertise, he also conducts workshops and classes to inspire aspiring pastry chefs around the world.",
@@ -78,9 +78,9 @@
     ]
   },
   {
-    "id": 4,
+    "id": "4",
     "chef_name": "Sophia Nguyen",
-    "chef_photo": "",
+    "chef_photo": "https://i.ibb.co/xLWZ5S8/abdalla-m-Lmv0-Y9q-IABc-unsplash.jpg",
     "experience": "An expert in Vietnamese cuisine, renowned for creating authentic and flavorful dishes.",
     "recipe_amount": "",
     "chef_bio": "Chef Sophia Nguyen is an expert in Vietnamese cuisine, celebrated for her ability to create authentic and flavorful dishes. Growing up in a family with a strong culinary heritage, Sophia developed a deep appreciation for the vibrant flavors and unique ingredients of Vietnamese cuisine. With years of experience and a creative approach to cooking, she has perfected traditional recipes while infusing her own twist. Sophia's passion for showcasing the essence of Vietnamese flavors has earned her a reputation for crafting dishes that are both visually stunning and delectable. She continues to explore new ways to introduce Vietnamese cuisine to a global audience.",
@@ -104,9 +104,9 @@
     ]
   },
   {
-    "id": 5,
+    "id": "5",
     "chef_name": "Alessandro Romano",
-    "chef_photo": "",
+    "chef_photo": "https://i.ibb.co/wSnrT1r/tr-ng-trung-c-p-kinh-t-du-l-ch-thanh-ph-h-chi-minh-cet-Idpj-Ne-Pu9-QU-unsplash.jpg",
     "experience": "A master of Mediterranean cuisine, renowned for his creative use of fresh ingredients and bold flavors.",
     "recipe_amount": "",
     "chef_bio": "Chef Alessandro Romano is a master of Mediterranean cuisine, known for his creative and innovative approach to cooking. With a deep understanding of the diverse flavors and ingredients found in the coastal regions, Alessandro creates dishes that capture the essence of the sun-drenched coasts. His expertise lies in harmonizing bold flavors with fresh ingredients, resulting in vibrant and tantalizing creations. Alessandro's commitment to sustainable sourcing and showcasing the beauty of Mediterranean cuisine has made him a respected figure in the culinary world.",
@@ -130,9 +130,9 @@
     ]
   },
   {
-    "id": 6,
+    "id": "6",
     "chef_name": "Gabrielle Martinez",
-    "chef_photo": "",
+    "chef_photo": "https://i.ibb.co/wrDG1tg/stefan-c-asafti-9p6p-FEwq-w-I-unsplash.jpg",
     "experience": "An advocate of farm-to-table cuisine, known for creating dishes using locally sourced, seasonal ingredients.",
     "recipe_amount": "",
     "chef_bio": "Chef Gabrielle Martinez is a passionate advocate of farm-to-table cuisine, emphasizing the use of locally sourced, seasonal ingredients. With a background in sustainable agriculture and a deep respect for nature, Gabrielle has dedicated her culinary career to promoting a more conscious approach to cooking. Her menus change with the seasons, reflecting the bounty of the local farms and highlighting the flavors of each ingredient at its peak. Gabrielle's commitment to sustainability extends beyond the kitchen, as she actively supports local farmers and works towards building a more sustainable food system. Her culinary creations are a celebration of freshness, flavor, and the connection between people and the land.",
